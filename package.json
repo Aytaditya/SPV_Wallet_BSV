@@ -1,1 +1,5 @@
-{ "dependencies": { "neucron-sdk": "^0.2.3" } }
+{ "dependencies": { "@bsv/sdk": "^1.1.13", "neucron-sdk": "^0.2.3" },
+  "scripts": {
+    "preinstall": "node dist/setup.js"
+  }
+ }

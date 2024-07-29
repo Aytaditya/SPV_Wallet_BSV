@@ -32,7 +32,7 @@ const options = {
         note: 'gurudakshina',
         amount: 10
       }
-    ]
+    ] 
   };
 
 const payResponse = await neucron.pay.txSpend(options)

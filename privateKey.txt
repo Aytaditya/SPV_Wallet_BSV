@@ -1,0 +1,3 @@
+// wallet created 
+Private Key WIF format is  L5H2jXT9JHC7E2mCtKPP2tMvbRZFRMrgRhG1hM8yYNC5qhG3frtH
+Your bitcoin address is  1HfQec5mLe787rkXafXU6yXwu92xUScYk7
